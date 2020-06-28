@@ -1,0 +1,19 @@
+:root {
+    --color1: #fef8ec;
+    --color2: #843c52;
+}
+
+body {
+    background-color: var(--color1);
+    text-align: center;
+}
+
+h1 {
+    color: var(--color2);
+}
+
+a {
+    color: var(--color2);
+    text-decoration: none;
+    font-size: x-large;
+}
