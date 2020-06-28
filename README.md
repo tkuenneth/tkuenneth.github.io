@@ -1,3 +1,4 @@
-# Welcome to my GitHub Pages homepage
+# Welcome to my personal GitHub Pages
 
-This is my Github Pages homepage.
+These are my Github Pages. Please feel free to contact me
+at thomas@thomaskuenneth.eu.
