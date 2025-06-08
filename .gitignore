@@ -1,1 +1,7 @@
-.DS_Store
+**/_site
+**/.sass-cache
+Gemfile.lock
+**/Browse.plb
+.jekyll-cache/
+**/.DS_Store
+.gitattributes

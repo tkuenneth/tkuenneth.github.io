@@ -1,0 +1,15 @@
+theme: minima
+
+title: tkuenneth.dev
+description: Developer. Author. Speaker. Mentor.
+author: Thomas Künneth
+email: "mail@tkuenneth.dev"
+
+github_username:  tkuenneth
+linkedin_username: tkuenneth
+instagram_username: tkuenneth
+
+header_pages:
+ - apps.md
+ - books.md
+ - talks.md
